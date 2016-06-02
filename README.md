@@ -1,4 +1,3 @@
  Sinner_Weather
 ====  
-
-![](https://github.com/sinneryun/Sinner_Weather/sinnerweather.png)
+![](https://raw.githubusercontent.com/sinneryun/Sinner_Weather/master/sinnerweather.png)
